@@ -1,5 +1,9 @@
 # Music-Player
 
+To Start Download the code the following way:
+
+<img width="1552" alt="image" src="https://user-images.githubusercontent.com/16857130/166116935-711435c2-56ea-4194-bc7c-73a7c931ce12.png">
+
 IntelliJ Mac Install: https://www.youtube.com/watch?v=ERZZEofqEDw
 
 IntelliJ Windows Install: https://www.youtube.com/watch?v=N9OG_lSJy7w
