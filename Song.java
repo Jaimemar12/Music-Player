@@ -35,10 +35,9 @@ public class Song {
                     .setType("video")
                     .setFields("items(id/kind,id/videoId,snippet/title,snippet/thumbnails/default/url)")
                     .setOrder("relevance")
-                    .setKey("AIzaSyDlLx9wM-OJ8rYWMRSXIId5TVoKRjw-uwE")
+                    .setKey("INSERT KEY HERE")
                     .execute()
                     .getItems();
-            //AIzaSyAUZ3nR3vEalbYd2izFFJBlOBO3DNAxtIs
 
             if (!results.isEmpty()) {
                 url = "https://www.youtube.com/watch?v=" + results.get(0).getId().getVideoId();
